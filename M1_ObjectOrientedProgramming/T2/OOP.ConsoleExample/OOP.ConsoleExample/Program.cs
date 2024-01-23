@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using AudioManager;
 //Permite hacer uso del contenido de AudioManager
 //Allows you to use AudioManager content
-using AudioManager;
+
 
 //first c# project usage tutorial
 namespace OOP.ConsoleExample
