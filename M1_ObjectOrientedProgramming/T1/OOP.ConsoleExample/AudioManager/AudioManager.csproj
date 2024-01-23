@@ -42,12 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
-    <Compile Include="Cat.cs" />
-    <Compile Include="Cow.cs" />
-    <Compile Include="Dog.cs" />
-    <Compile Include="Elephant.cs" />
-    <Compile Include="Lion.cs" />
-    <Compile Include="Pig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
