@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\M1_ObjectOrientedProgramming",
+    "\\M1_ObjectOrientedProgramming\\E1"
   ],
-  "SelectedNode": "\\OOP.ConsoleExample.sln (M1_ObjectOrientedProgramming\\T2\\OOP.ConsoleExample\\OOP.ConsoleExample.sln)",
+  "SelectedNode": "\\M1_ObjectOrientedProgramming\\E1",
   "PreviewInSolutionExplorer": true
 }
