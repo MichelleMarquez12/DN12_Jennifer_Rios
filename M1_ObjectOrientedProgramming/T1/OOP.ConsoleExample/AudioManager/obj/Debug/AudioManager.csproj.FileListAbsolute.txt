@@ -1,0 +1,6 @@
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb

@@ -1,0 +1,10 @@
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe.config
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.exe
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CopyComplete

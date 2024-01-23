@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-OOP",
+      "appliesTo": "M1_ObjectOrientedProgramming/T1/OOP.ConsoleExample/OOP.ConsoleExample/",
+      "type": "launch"
+    }
+  ]
+}
