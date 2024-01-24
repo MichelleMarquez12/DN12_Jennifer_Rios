@@ -1,0 +1,10 @@
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\bin\Debug\Jennifer's-AudioManager.exe.config
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\bin\Debug\Jennifer's-AudioManager.exe
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\bin\Debug\Jennifer's-AudioManager.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\obj\Debug\Jennifer's-AudioManager.csproj.AssemblyReference.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\obj\Debug\Jennifer's-AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\obj\Debug\Jennifer's-AudioManager.csproj.CopyComplete
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\obj\Debug\Jennifer's-AudioManager.exe
+C:\Users\Eldat\source\repos\DN12_Jennifer_Rios\M1_ObjectOrientedProgramming\E1\Jennifer's-AudioManager\Jennifer's-AudioManager\obj\Debug\Jennifer's-AudioManager.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jennifer's-AudioManager", "Jennifer's-AudioManager\Jennifer's-AudioManager.csproj", "{93EB3410-B25B-4239-8A7A-96147F36E5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioManager", "AudioManager\AudioManager.csproj", "{3B9493B9-CBC0-43CB-AA13-ADBF8E80660B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EB3410-B25B-4239-8A7A-96147F36E5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EB3410-B25B-4239-8A7A-96147F36E5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EB3410-B25B-4239-8A7A-96147F36E5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EB3410-B25B-4239-8A7A-96147F36E5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9493B9-CBC0-43CB-AA13-ADBF8E80660B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9493B9-CBC0-43CB-AA13-ADBF8E80660B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9493B9-CBC0-43CB-AA13-ADBF8E80660B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9493B9-CBC0-43CB-AA13-ADBF8E80660B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C91BECB-EA0D-4A85-9390-492FD64E3A4F}
+	EndGlobalSection
+EndGlobal
