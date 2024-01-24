@@ -14,10 +14,11 @@ namespace Jennifer_s_AudioManager
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("\nWelcome, know the sounds of these vehicles!\n");
-                Console.WriteLine("\n\nTrain\tCar\tTruck\tRacecar\tmotorcycle\tTractor");
+                Console.WriteLine("\n\nTrain\tCar\tTruck\tRacecar\tMotorcycle\tTractor");
                 Console.WriteLine("\nEnter the vehicle you want to listen to and then press enter: ");
                 String vehicleType = Console.ReadLine().ToLower();
 
+                //valida que lo recibido se encuentre con el método
                 if (ValideType(vehicleType))
                 {
                     //creamos el objeto del vehiculo, llamando a la funcion Create
@@ -30,11 +31,12 @@ namespace Jennifer_s_AudioManager
                 else
                 {
                     Console.WriteLine("Invalid vehicle! Please enter a valid vehicle");
-                    System.Threading.Thread.Sleep(2000);
+                    System.Threading.Thread.Sleep(1000);
                 }
             }
         }
     
+        //metodo estatico 
         static bool ValideType(string vehicleType)
         {
             return vehicleType == "car" || vehicleType == "racecar" || vehicleType == "train" 
