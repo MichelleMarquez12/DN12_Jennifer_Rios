@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bdx+7F2eTqvyJlpkrIc6xG10/EB8u2sk5zk2dDCPAnY=",
+  "Source": "GymManager.Web",
+  "BasePath": "_content/GymManager.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
