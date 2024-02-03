@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GymManager.Web/1.0.0": {
+        "dependencies": {
+          "GymManager.ApplicationServices": "1.0.0",
+          "GymManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "GymManager.Web.dll": {}
+        }
+      },
+      "GymManager.ApplicationServices/1.0.0": {
+        "dependencies": {
+          "GymManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "GymManager.ApplicationServices.dll": {}
+        }
+      },
+      "GymManager.Core/1.0.0": {
+        "runtime": {
+          "GymManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManager.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManager.ApplicationServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
