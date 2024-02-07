@@ -1,0 +1,12 @@
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.deps.json
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.pdb
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.AssemblyInfoInputs.cache
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.AssemblyInfo.cs
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.sourcelink.json
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\refint\Api.Entities.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.pdb
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M3_NetProjectsWebApi\T6\WepApi.WindowsClient\Api.Entities\obj\Debug\net8.0\ref\Api.Entities.dll
