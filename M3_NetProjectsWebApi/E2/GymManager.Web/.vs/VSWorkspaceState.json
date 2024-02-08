@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GymManager.Web",
+    "\\GymManager.Web\\Controllers",
+    "\\GymManager.Web\\Views",
+    "\\GymManager.Web\\Views\\MembershipTypes"
+  ],
+  "SelectedNode": "\\GymManager.Web\\Controllers\\MembershipTypesController.cs",
+  "PreviewInSolutionExplorer": false
+}
