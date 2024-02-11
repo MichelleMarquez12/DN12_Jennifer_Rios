@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5MaSky8tGqqTbqEBcBu54fSDEyqWVcPDiQQV5lm4q8g=",
+  "Source": "WebWeatherForecast",
+  "BasePath": "_content/WebWeatherForecast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
