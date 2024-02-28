@@ -66,20 +66,6 @@ INSERT INTO `gymmanager`.`equipementtype`(`idEquipementType`,`EquipementType`)VA
 INSERT INTO `gymmanager`.`equipementtype`(`idEquipementType`,`EquipementType`)VALUES(5,'CAMINADORA');
 INSERT INTO `gymmanager`.`equipementtype`(`idEquipementType`,`EquipementType`)VALUES(6,'LIGAS');
 
-/*Inserción de 5 registros de la tabla SALES*/
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(1,'2024-02-20',300);
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(2,'2023-12-21',200);
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(3,'2024-11-02',1000);
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(4,'2023-02-03',400);
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(5,'2023-08-25',100);
-INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`)
-VALUES(6,'2023-12-25',10);
-
 /*Inserción de 5 registros de la tabla USERINROLES*/
 INSERT INTO `gymmanager`.`userinroles` (`roles_idRole`, `users_idusers`) VALUES (1,1);
 INSERT INTO `gymmanager`.`userinroles` (`roles_idRole`, `users_idusers`) VALUES (6,2);
@@ -89,20 +75,20 @@ INSERT INTO `gymmanager`.`userinroles` (`roles_idRole`, `users_idusers`) VALUES 
 INSERT INTO `gymmanager`.`userinroles` (`roles_idRole`, `users_idusers`) VALUES (6,6);
 
 /*Inserción de 5 registros de la tabla PRODUCTTYPES*/
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (1, 'PROTEINA EN POLVO','SUPLEMENTO',1);
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (2, 'SUERO DE LECHE','SUPLEMENTO', 2);
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (3, 'CREATINA','SUPLEMENTO', 3);
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (4, 'BARRA DE PROTEINA','SUPLEMENTO', 4);
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (5, 'GLUTAMINA','SUPLEMENTO', 5);
-INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`,`Sales_idSales`) VALUES (6, 'SHORT DEPORTIVO','ROPA DEPORTIVA', 6);
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (1, 'PROTEINA EN POLVO','SUPLEMENTO');
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (2, 'SUERO DE LECHE','SUPLEMENTO');
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (3, 'CREATINA','SUPLEMENTO');
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (4, 'BARRA DE PROTEINA','SUPLEMENTO');
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (5, 'GLUTAMINA','SUPLEMENTO');
+INSERT INTO `gymmanager`.`producttypes`(`idProductTypes`,`Product`,`ProductTypes`) VALUES (6, 'SHORT DEPORTIVO','ROPA DEPORTIVA');
 
 /*Inserción de 5 registros de la tabla INVENTORY*/
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (500, 100, 1, 1, 1);
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (1000, 200, 2, 2, 2);
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (500, 120, 3, 3, 3);
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (700, 50, 4, 4, 4);
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (200, 6, 5, 5, 5);
-INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `ProductTypes_Sales_idSales`, `EquipementType_idEquipementType`) VALUES (200, 12, 6, 6, 6);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (500, 100, 1, 1);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (1000, 200, 2, 2);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (500, 120, 3, 3);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (700, 50, 4, 4);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (200, 6, 5, 5);
+INSERT INTO `gymmanager`.`inventory` (`cantidadProduct`, `cantidadEquipament`, `ProductTypes_idProductTypes`, `EquipementType_idEquipementType`) VALUES (200, 12, 6, 6);
 
 /*Inserción de 5 registros de la tabla MEASURETYPE*/
 INSERT INTO `gymmanager`.`measuretype`(`medida`,`ProductTypes_idProductTypes`)VALUES('907.00',1);
@@ -111,3 +97,17 @@ INSERT INTO `gymmanager`.`measuretype`(`medida`,`ProductTypes_idProductTypes`)VA
 INSERT INTO `gymmanager`.`measuretype`(`medida`,`ProductTypes_idProductTypes`)VALUES('500',4);
 INSERT INTO `gymmanager`.`measuretype`(`medida`,`ProductTypes_idProductTypes`)VALUES('907.00',5);
 INSERT INTO `gymmanager`.`measuretype`(`medida`,`ProductTypes_idProductTypes`)VALUES('MEDIANA',6);
+
+/*Inserción de 5 registros de la tabla SALES*/
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(1,'2024-02-20',300,1,1);
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(2,'2023-12-21',200,2,2);
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(3,'2024-11-02',40,1,3);
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(4,'2023-02-03',400,3,4);
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(5,'2023-08-25',100,4,5);
+INSERT INTO `gymmanager`.`sales`(`idSales`,`date`,`cantidad`,`Users_idusers`, `ProductTypes_idProductTypes`)
+VALUES(6,'2023-12-25',10,5,6);
