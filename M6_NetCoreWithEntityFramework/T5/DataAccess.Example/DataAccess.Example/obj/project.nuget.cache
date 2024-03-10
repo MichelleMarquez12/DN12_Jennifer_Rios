@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOwxdh8j5EPTwIZ6vDdZUpp44NuEEyMIgKt/EthGSbu8oNSO2Aud20y+AQlvOSiLfXFYfiRLlGT6tjzLRHZ+SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marqu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\marqu\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
