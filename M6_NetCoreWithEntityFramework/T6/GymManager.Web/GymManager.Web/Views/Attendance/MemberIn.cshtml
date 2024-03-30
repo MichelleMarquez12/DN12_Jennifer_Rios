@@ -1,0 +1,125 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+    <div style="display: flex">
+        <!--<img src="~/images/logogym.jpg" style="width: 200px; height:200px;"/>-->
+        <title>GymManager</title>
+    </div>
+    <!-- LINK DEL FAVICON-->
+    <!--https://img.freepik.com/free-photo/build-your-own-body-strength-fitness-exercise-get-fit_53876-21380.jpg?w=996&t=st=1706391284~exp=1706391884~hmac=aa5321ac1e90da7714627a9af55ab4f310ee5eb0217d89e45cbf7ebcfae6ae18-->
+    <link rel="icon" href="~/images/logoo.png" />
+
+    
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css" /> -->
+    <link rel="stylesheet" href="~/bootstrap/css/bootstrap.min.css"  />
+    <!-- Favicons -->
+    <meta name="theme-color" content="#7952b3">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @*el doble @@ ayuda a salvar,escapar el @ ya que es un caracter reservado para codigo del lado del servidor*@
+        @@media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+        main > .container {
+            padding: 60px 15px 0;
+        }
+
+        .logo {
+          width: 100px;
+          height: auto;
+          float: left;
+          margin-right: 10px;
+        }
+        .carousel-item img {
+            height: 600px; /* Set the desired height */
+            object-fit: cover; /* Maintain the aspect ratio and crop the image to cover the entire container */
+        }
+        .formID{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        section {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            padding: 20px;
+          }
+    </style>
+
+
+    <!-- Custom styles for this template -->
+</head>
+<body class="d-flex flex-column h-100">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Begin page content -->
+    <main class="flex-shrink-0">
+        <div class="container">
+          <p style="background-color: lightsteelblue; color: midnightblue; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size:x-large; text-align:center" class="mt-5">WELCOME!</p>
+            <section>
+                    <h2><center>Check</center></h2>
+                    <input type="text" id="info" name="info" class="form-control col-auto mb-3" placeholder="Enter your ID...">
+                    <button type="button" id="modalButton" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Registrar</button>
+            </section>
+        </div>
+    </main>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <p id="mensajeModal"><h4>Registro Entrada</h4></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Modal Text-->
+    <div class="modal" tabindex="-1" role="dialog" style="z-index: 1050;">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <p id="mensajeModal"><h4>Registro Entrada</h4></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="~/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js.js"></script>
+</body>
+</html>
