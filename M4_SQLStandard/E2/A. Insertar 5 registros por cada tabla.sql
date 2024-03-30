@@ -19,11 +19,11 @@ INSERT INTO `gymmanager`.`roles`(`idRole`,`role_name`)VALUES(5,'Nutricionista');
 INSERT INTO `gymmanager`.`roles`(`idRole`,`role_name`)VALUES(6,'Clientes');
 
 /*Inserción de 5 registros de la tabla cities***********************/
-INSERT INTO `gymmanager`.`cities`(`idcities`,`citi_name`)VALUES(1,'CDMX');
-INSERT INTO `gymmanager`.`cities`(`idcities`,`citi_name`)VALUES(2,'PUEBLA');
-INSERT INTO `gymmanager`.`cities`(`idcities`,`citi_name`)VALUES(3,'LONDRES');
-INSERT INTO `gymmanager`.`cities`(`idcities`,`citi_name`)VALUES(4,'CHICAGO');
-INSERT INTO `gymmanager`.`cities`(`idcities`,`citi_name`)VALUES(5,'LOS ÁNGELES');
+INSERT INTO `gymmanager`.`cities`(`id`,`name`)VALUES(1,'Aguascalientes');
+INSERT INTO `gymmanager`.`cities`(`id`,`name`)VALUES(2,'Baja California');
+INSERT INTO `gymmanager`.`cities`(`id`,`name`)VALUES(3,'Baja California Sur');
+INSERT INTO `gymmanager`.`cities`(`id`,`name`)VALUES(4,'Campeche');
+INSERT INTO `gymmanager`.`cities`(`id`,`name`)VALUES(5,'Chiapas');
 
 /*Inserción de 5 registros de la tabla USERS***********/
 INSERT INTO `gymmanager`.`users`(`idusers`,`user_name`,`password`)VALUES(1,'Jennifer1','jennmr1');
@@ -34,23 +34,23 @@ INSERT INTO `gymmanager`.`users`(`idusers`,`user_name`,`password`)VALUES(5,'Mela
 INSERT INTO `gymmanager`.`users`(`idusers`,`user_name`,`password`)VALUES(6,'DulceG6','dulcegr6');
 
 /*Inserción de 5 registros de la tabla MEMBERS***********/
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`, `memberShipTypes_idmemberShipType`)
 VALUES('JENNIFER MICHELLE','RIOS','marquezmichel282@gmail.com','4811234567','Av. Insurgentes Sur 1234, Colonia Roma Norte, Del. Miguel Hidalgo','2020-01-02',1,1,1);
 
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`,`memberShipTypes_idmemberShipType`)
 VALUES('MIGUEL ANGEL','RIOS','miguel11@gmail.com','4817895942','Av. Insurgentes Norte No. 240 Int., Colonia Centro','2020-10-12',2,2,2);
 
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`,`memberShipTypes_idmemberShipType`)
 VALUES('ISRAEL','MENDEZ','ohmamendez@gmail.com','4811487956','Calle 5 de Mayo 123, Colonia Centro','2021-02-02',3,3,3);
 
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`,`memberShipTypes_idmemberShipType`)
 VALUES('DAVID','ZUÑIGA MORAN','david123@gmail.com','4811026523','221B Baker Street, Marylebone','2022-03-18',4,4,4);
 
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`,`memberShipTypes_idmemberShipType`)
 VALUES('MELANIA','MORAN','melania2@gmail.com','4812015976','871 North Michigan Avenue, Suite 4444','2023-09-22',5,5,5);
 
-INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`memberShipTypes_idmemberShipType`,`Cities_idcities`, `Users_idusers`)
-VALUES('DULCE GABRELA','RIOS','dulceg12@gmail.com','4815069741','6801 Hollywood Boulevard, Los Ángeles','2024-02-26',5,1,6);
+INSERT INTO `gymmanager`.`members`(`name`,`lastname`,`email`,`telefono`,`direccion`,`FechaRegistro`,`Cities_Id`, `Users_idusers`,`memberShipTypes_idmemberShipType`)
+VALUES('DULCE GABRELA','RIOS','dulceg12@gmail.com','4815069741','6801 Hollywood Boulevard, Los Ángeles','2024-02-26',1,6,5);
 
 /*Inserción de 5 registros de la tabla EQUIPEMENTTYPE*/
 INSERT INTO `gymmanager`.`equipementtype`(`idEquipementType`,`EquipementType`)VALUES(1,'PESAS');
