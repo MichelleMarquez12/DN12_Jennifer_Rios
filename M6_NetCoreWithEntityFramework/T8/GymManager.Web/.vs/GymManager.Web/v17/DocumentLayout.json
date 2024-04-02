@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\t8\\gymmanager.web\\gymmanager.web\\controllers\\invoicingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\controllers\\invoicingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\t8\\gymmanager.web\\gymmanager.web\\views\\invoicing\\generateinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\invoicing\\generateinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\t8\\gymmanager.web\\gymmanager.web\\views\\invoicing\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\invoicing\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\t8\\gymmanager.web\\gymmanager.web\\views\\invoicing\\_printview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\invoicing\\_printview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\t8\\gymmanager.web\\gymmanager.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\Print.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Invoicing\\Print.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\Print.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Invoicing\\Print.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T05:36:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PrintView.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\_PrintView.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Invoicing\\_PrintView.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\_PrintView.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Invoicing\\_PrintView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T04:59:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\GenerateInvoice.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Invoicing\\GenerateInvoice.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Views\\Invoicing\\GenerateInvoice.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Invoicing\\GenerateInvoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T02:16:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoicingController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Controllers\\InvoicingController.cs",
+              "RelativeDocumentMoniker": "GymManager.Web\\Controllers\\InvoicingController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Controllers\\InvoicingController.cs",
+              "RelativeToolTip": "GymManager.Web\\Controllers\\InvoicingController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:14:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GymManager.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\T8\\GymManager.Web\\GymManager.Web\\Program.cs",
+              "RelativeToolTip": "GymManager.Web\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:21:00.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
