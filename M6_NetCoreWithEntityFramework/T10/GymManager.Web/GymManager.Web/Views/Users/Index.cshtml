@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+@model List<Microsoft.AspNetCore.Identity.IdentityUser>
+
+@section HeaderRight {
+    <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
+}
+
+<div class="container">
+    <p style="background-color: lightsteelblue; color: midnightblue; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size:x-large; text-align:center" class="mt-5">WELCOME!</p>
+    <h1 class="mt-5">Users</h1>
+
+    <div class="row">
+        <div class="col-12">
+            <a asp-action="Create" class="btn btn-outline-success float-end">Add User</a>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">User Name</th>
+                <th scope="col">Phone Number</th>
+                <th scope="col">Email</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <th scope="row">@user.UserName</th>
+                    <td>@user.PhoneNumber</td>
+                    <td>@user.Email</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-outline-info" asp-route-userId="@user.Id">Update</a>
+                    </td>
+                    <td>
+                        <a asp-action="Delete" class="btn btn-outline-danger" asp-route-userId="@user.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<script src="~/bootstrap/js/bootstrap.bundle.min.js"></script>
