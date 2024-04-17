@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.web\\views\\members\\memberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\members\\memberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F94D1A-4873-4F2F-9419-B5821D21CEAC}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.applicationservices\\members\\membersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F94D1A-4873-4F2F-9419-B5821D21CEAC}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|solutionrelative:gymmanager.applicationservices\\members\\membersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.web\\views\\shared\\_membershipdetailslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\shared\\_membershipdetailslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E58D1-1F78-473E-9C94-D3A5DC53F054}|GymManager.DataAccess\\GymManager.DataAccess.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5E58D1-1F78-473E-9C94-D3A5DC53F054}|GymManager.DataAccess\\GymManager.DataAccess.csproj|solutionrelative:gymmanager.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.web\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75EA6E-C0BC-4297-8E4E-843059FB1118}|GymManager.Core\\GymManager.Core.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.core\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75EA6E-C0BC-4297-8E4E-843059FB1118}|GymManager.Core\\GymManager.Core.csproj|solutionrelative:gymmanager.core\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.web\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DDC3B4-0B56-4356-9149-FDB11B15C4DC}|GymManager.Web\\GymManager.Web.csproj|solutionrelative:gymmanager.web\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F94D1A-4873-4F2F-9419-B5821D21CEAC}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m6_netcorewithentityframework\\e3\\gymmanager.web\\gymmanager.applicationservices\\members\\imembersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F94D1A-4873-4F2F-9419-B5821D21CEAC}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|solutionrelative:gymmanager.applicationservices\\members\\imembersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Members\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T21:53:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Core\\Members\\Member.cs",
+              "RelativeDocumentMoniker": "GymManager.Core\\Members\\Member.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Core\\Members\\Member.cs",
+              "RelativeToolTip": "GymManager.Core\\Members\\Member.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:49:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Members\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\Edit.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Members\\Edit.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwIQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T21:33:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GymManager.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "GymManager.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:20:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersAppService.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "RelativeDocumentMoniker": "GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "RelativeToolTip": "GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:27:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMembersAppService.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "RelativeDocumentMoniker": "GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "RelativeToolTip": "GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:27:54.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\MemberDetails.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Members\\MemberDetails.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Members\\MemberDetails.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Members\\MemberDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:21:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MembershipDetailsList.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Shared\\_MembershipDetailsList.cshtml",
+              "RelativeDocumentMoniker": "GymManager.Web\\Views\\Shared\\_MembershipDetailsList.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Views\\Shared\\_MembershipDetailsList.cshtml",
+              "RelativeToolTip": "GymManager.Web\\Views\\Shared\\_MembershipDetailsList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T19:21:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "GymManager.Web\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M6_NetCoreWithEntityFramework\\E3\\GymManager.Web\\GymManager.Web\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "GymManager.Web\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:00:50.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

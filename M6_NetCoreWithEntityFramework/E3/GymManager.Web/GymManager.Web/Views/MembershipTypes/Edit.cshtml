@@ -1,0 +1,64 @@
+﻿@model GymManager.Core.Members.MembershipTypes
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+@section Head {
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.js"></script>
+    <script src="~/views/members/create.js"></script>
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h3 class="mt-5">Edit Membership</h3>
+        </div>
+        <div class="col-6">
+            <a asp-action="Index" class="btn btn-outline-success float-end">Back</a>
+        </div>
+    </div>
+
+    <form asp-action="Edit">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Membership</label>
+            <input type="text" class="form-control" asp-for="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Costo" class="form-label">Cost</label>
+            <input type="text" class="form-control" asp-for="Costo">
+            <span asp-validation-for="Costo" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form>
+    <script>
+        // Obtener la fecha y hora actual
+        var now = new Date();
+
+        // Formatear la fecha (solo la fecha, sin la hora)
+        var formattedDate = now.toISOString().slice(0, 10);
+
+        // Establecer el valor del campo de fecha
+        document.querySelector('input[name="CreatedOn"]').value = formattedDate;
+    </script>
+
+</div>
