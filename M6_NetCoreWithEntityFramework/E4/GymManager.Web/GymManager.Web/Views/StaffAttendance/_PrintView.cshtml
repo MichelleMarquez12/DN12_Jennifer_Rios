@@ -1,0 +1,105 @@
+﻿<!doctype html>
+<html lang="en" class="h-100">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+        <title>GymManager</title>
+    <!-- LINK DEL FAVICON-->
+    <!--https://img.freepik.com/free-photo/build-your-own-body-strength-fitness-exercise-get-fit_53876-21380.jpg?w=996&t=st=1706391284~exp=1706391884~hmac=aa5321ac1e90da7714627a9af55ab4f310ee5eb0217d89e45cbf7ebcfae6ae18-->
+    <link rel="icon" href="~/images/logogym.jpg">
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/">
+
+
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css" /> -->
+    <link rel="stylesheet" href="~/bootstrap/css/bootstrap.min.css"  />
+    <!-- Favicons -->
+    <meta name="theme-color" content="#7952b3">
+
+    @section Head{
+        <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @*el doble @@ ayuda a salvar,escapar el @ ya que es un caracter reservado para codigo del lado del servidor*@
+        @@media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+        main > .container {
+            padding: 60px 15px 0;
+        }
+
+        .logo {
+          width: 100px;
+          height: auto;
+          float: left;
+          margin-right: 10px;
+        }
+        .carousel-item img {
+            height: 600px; /* Set the desired height */
+            object-fit: cover; /* Maintain the aspect ratio and crop the image to cover the entire container */
+        }
+    </style>
+    } 
+    
+</head>
+<body class="d-flex flex-column h-100">
+
+    <!-- Begin page content -->
+    <main class="flex-shrink-0">
+        <div class="container mt-5 mb-3"> 
+            <div class="row d-flex justify-content-center"> 
+                <div class="col-mb-8"> <div class="card"> 
+                    <div class="d-flex align-items-center p-2"> 
+                        <img src="https://localhost:44396/images/logoo.png" width="98" style="margin-right:10px;" alt="image gym" /> 
+                        <div class="d-flex flex-column"> <span class="font-weight-bold">Attendance Report</span> <small>INV-001</small> </div> 
+                    </div> <hr> 
+                     <div class="table-responsive p-2"> 
+                          <table class="table table-borderless"> 
+                            <tbody> 
+                                <tr class="add"> 
+                                    <td>Date</td> 
+                                    <td>Time</td> 
+                                    <td>Staff</td> 
+                                </tr> 
+                                <tr class="content"> 
+                                    <td>04/15/2023</td> 
+                                    <td>08:00 - 10:00</td> 
+                                    <td>John Doe</td> </tr> 
+                                <tr class="content"> 
+                                    <td>04/15/2023</td> 
+                                    <td>10:00 - 12:00</td> 
+                                    <td>Jane Smith</td> 
+                                </tr> 
+                                <tr class="content"> 
+                                    <td>04/15/2023</td> 
+                                    <td>12:00 - 14:00</td> 
+                                    <td>Mike Johnson</td> 
+                                </tr> 
+
+                            </tbody> 
+                          </table>  
+                     </div> 
+                </div> 
+            </div> 
+        </div>
+
+
+    </main>
+
+    <script src="~/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

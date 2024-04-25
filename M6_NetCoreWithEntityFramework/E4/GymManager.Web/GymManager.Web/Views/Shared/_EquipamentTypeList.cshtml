@@ -1,0 +1,26 @@
+﻿
+@model List<GymManager.Core.Members.EquipamentType>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipamentType in Model)
+        {
+            <tr>
+                <th scope="row">@equipamentType.Name</th>
+                <td>
+                    <a asp-action="Edit" class="btn btn-outline-info" asp-route-equipamentTypeId="@equipamentType.Id">Update</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-outline-danger" asp-route-equipamentTypeId="@equipamentType.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

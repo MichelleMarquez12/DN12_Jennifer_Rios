@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model GymManager.Web.Models.StaffAttendanceListViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h1>Attendance</h1>
+
+    <div>
+        <a asp-action="Print" class="btn btn-success" target="_blank">Generate Report</a>
+    </div>
+
+    <div>
+        @await Html.PartialAsync("~/Views/Shared/_StaffAttendanceList.cshtml", Model.Staffattendance)
+    </div>
+
+</div>

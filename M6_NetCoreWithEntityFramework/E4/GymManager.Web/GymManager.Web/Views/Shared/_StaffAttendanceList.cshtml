@@ -1,0 +1,27 @@
+﻿
+@model List<GymManager.Core.Members.StaffAttendance>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">LastName</th>
+            <th scope="col">Date Check In</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var group in Model.GroupBy(s => new { s.Name, s.LastName }))
+        {
+            <tr>
+                <td>@group.Key.Name</td>
+                <td>@group.Key.LastName</td>
+                <td>
+                    @{
+                        string dates = string.Join(", ", group.Select(a => a.DateTime.ToString("yyyy-MM-dd")));
+                    }
+                    @dates
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
