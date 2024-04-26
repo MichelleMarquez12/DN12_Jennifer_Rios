@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF97FB07-D7BE-439D-82E2-E42A1217BFED}|DataAccess.UnitTest\\DataAccess.UnitTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.unittest\\colorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF97FB07-D7BE-439D-82E2-E42A1217BFED}|DataAccess.UnitTest\\DataAccess.UnitTest.csproj|solutionrelative:dataaccess.unittest\\colorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF97FB07-D7BE-439D-82E2-E42A1217BFED}|DataAccess.UnitTest\\DataAccess.UnitTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.unittest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF97FB07-D7BE-439D-82E2-E42A1217BFED}|DataAccess.UnitTest\\DataAccess.UnitTest.csproj|solutionrelative:dataaccess.unittest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.example.entityframework\\vehiclesdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\vehiclesdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.example.entityframework\\ivehiclesdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\ivehiclesdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.example.entityframework\\vehiclesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB9C35A-D33F-4A98-AD6B-195F3F80541D}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\vehiclesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715C11BB-5343-4B06-8252-6BADA6C486E6}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t1\\dataaccess.example.webapi\\dataaccess.example.core\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715C11BB-5343-4B06-8252-6BADA6C486E6}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.Core\\Vehicle.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.Core\\Vehicle.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:04:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehiclesDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\IVehiclesDataManager.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\IVehiclesDataManager.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\IVehiclesDataManager.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\IVehiclesDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:59:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiclesDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\VehiclesDataManager.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\VehiclesDataManager.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\VehiclesDataManager.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\VehiclesDataManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:45:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclesDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:26:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.UnitTest\\Startup.cs",
+              "RelativeDocumentMoniker": "DataAccess.UnitTest\\Startup.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.UnitTest\\Startup.cs",
+              "RelativeToolTip": "DataAccess.UnitTest\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:55:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorsTest.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.UnitTest\\ColorsTest.cs",
+              "RelativeDocumentMoniker": "DataAccess.UnitTest\\ColorsTest.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.UnitTest\\ColorsTest.cs",
+              "RelativeToolTip": "DataAccess.UnitTest\\ColorsTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:30:16.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

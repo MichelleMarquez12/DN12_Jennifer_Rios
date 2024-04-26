@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkjNDVZj5NgjPp+z2ynqGBn63bNqViHa2axzxLjJuuRyD462KEs/pBSVQ9uJtFX0OEE1HwU7ujxnoUIXI+o6TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T1\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marqu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
