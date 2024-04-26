@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataAccess.Example.Core": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

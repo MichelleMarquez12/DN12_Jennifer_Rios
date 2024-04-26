@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dataaccess.example.webapi:
+    image: ${DOCKER_REGISTRY-}dataaccessexamplewebapi
+    build:
+      context: .
+      dockerfile: DataAccess.Example.WebApi/Dockerfile

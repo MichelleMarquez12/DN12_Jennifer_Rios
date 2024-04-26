@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\controllers\\erroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\controllers\\erroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17313671-ADBD-459B-9CFB-62FB7B9032A5}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17313671-ADBD-459B-9CFB-62FB7B9032A5}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\dataaccess.example.webapi\\controllers\\makescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A629B23-847E-4D53-BFD3-268F9F6DABF8}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\controllers\\makescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01313C5E-A374-4971-95E9-7D4C9D04B09B}|docker-compose.dcproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t2\\copia\\dataaccess.example.webapi\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01313C5E-A374-4971-95E9-7D4C9D04B09B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\appsettings.json",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T21:55:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.Core\\Color.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Color.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.Core\\Color.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:09:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrosController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\ErrosController.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Controllers\\ErrosController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\ErrosController.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Controllers\\ErrosController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:53:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakesController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\MakesController.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Controllers\\MakesController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\MakesController.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Controllers\\MakesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:46:24.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Controllers\\ColorsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:45:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Startup.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:17:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-26T19:39:20.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Dockerfile",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T18:33:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T2\\copia\\DataAccess.Example.WebApi\\DataAccess.Example.WebApi\\Program.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:29:31.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
