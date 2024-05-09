@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table class="table">
+    @foreach (var f in Model.WeatherForecasts)
+    {
+        <tr>
+            <td>@f.Date</td>
+            <td>@f.Summary</td>
+            <td>@f.TemperatureC</td>
+            <td>@f.TemperatureF</td>
+        </tr>
+    }
+</table>
+
+<h1>Client Side</h1>
+<table class="table" id="clientTable"> </table>
+
+@section Scripts{
+    <script>
+        $.get("https://localhost:44348/WeatherForecast", function (data, status) {
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+    </script>
+}
