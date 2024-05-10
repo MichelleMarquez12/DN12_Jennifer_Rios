@@ -1,0 +1,6 @@
+@WebApi.Cors.Example_HostAddress = http://localhost:5049
+
+GET {{WebApi.Cors.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

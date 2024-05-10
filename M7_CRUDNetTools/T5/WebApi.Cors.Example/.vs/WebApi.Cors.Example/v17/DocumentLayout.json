@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\pages\\contactmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\pages\\contactmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\pages\\contactmodel.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\pages\\contactmodel.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\commonresources.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\commonresources.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\commonresources.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\commonresources.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\resources\\pages\\indexmodel.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\resources\\pages\\indexmodel.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\components\\cultureswitcher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\components\\cultureswitcher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example.client\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17758AE4-816C-4915-90CA-AC2BABB2FD74}|WebApi.Cors.Example.Client\\WebApi.Cors.Example.Client.csproj|solutionrelative:webapi.cors.example.client\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactModel.es-MX.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.es-MX.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.es-MX.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.es-MX.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.es-MX.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T23:06:00.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactModel.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.en-US.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.en-US.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.en-US.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\Pages\\ContactModel.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T22:58:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Program.cs",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:35:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonResources.es-MX.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.es-MX.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\CommonResources.es-MX.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.es-MX.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\CommonResources.es-MX.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T22:33:34.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonResources.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.en-US.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\CommonResources.en-US.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.en-US.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\CommonResources.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T22:33:00.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonResources.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\CommonResources.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\CommonResources.cs",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\CommonResources.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:25:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:05:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Contact.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T21:42:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndexModel.es-MX.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T21:34:13.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexModel.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.en-US.resx",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.en-US.resx",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.en-US.resx",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Resources\\Pages\\IndexModel.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-10T21:32:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T21:28:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:42:18.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:27:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:24:42.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:22:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Components\\CultureSwitcher\\default.cshtml",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example.Client\\Pages\\Components\\CultureSwitcher\\default.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example.Client\\Pages\\Components\\CultureSwitcher\\default.cshtml",
+              "RelativeToolTip": "WebApi.Cors.Example.Client\\Pages\\Components\\CultureSwitcher\\default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T02:58:39.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

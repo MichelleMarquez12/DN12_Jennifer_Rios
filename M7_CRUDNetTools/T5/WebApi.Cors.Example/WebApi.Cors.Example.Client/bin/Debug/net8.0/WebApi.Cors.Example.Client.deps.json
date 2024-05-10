@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebApi.Cors.Example.Client/1.0.0": {
+        "runtime": {
+          "WebApi.Cors.Example.Client.dll": {}
+        },
+        "resources": {
+          "en-US/WebApi.Cors.Example.Client.resources.dll": {
+            "locale": "en-US"
+          },
+          "es-MX/WebApi.Cors.Example.Client.resources.dll": {
+            "locale": "es-MX"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApi.Cors.Example.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
