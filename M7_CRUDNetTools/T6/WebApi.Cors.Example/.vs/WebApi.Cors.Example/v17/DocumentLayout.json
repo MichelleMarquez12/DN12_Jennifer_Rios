@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\initdbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\initdbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\auth\\jwtoptionss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\auth\\jwtoptionss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\data\\jwtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\data\\jwtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t6\\webapi.cors.example\\webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18333989-0CBD-4685-B119-93700A93A68E}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:40:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitDbExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\InitDbExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\InitDbExtensions.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\InitDbExtensions.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\InitDbExtensions.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAxwDUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:13:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:22:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "RelativeToolTip": "WebApi.Cors.Example\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T22:16:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Data\\JwtDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Data\\JwtDbContext.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Data\\JwtDbContext.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Data\\JwtDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:31:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:26:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtOptionss.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Auth\\JwtOptionss.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Auth\\JwtOptionss.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T6\\WebApi.Cors.Example\\WebApi.Cors.Example\\Auth\\JwtOptionss.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Auth\\JwtOptionss.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA8wB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:27:48.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

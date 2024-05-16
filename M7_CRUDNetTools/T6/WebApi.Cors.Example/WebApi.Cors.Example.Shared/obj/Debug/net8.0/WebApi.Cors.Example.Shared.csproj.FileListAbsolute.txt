@@ -1,0 +1,12 @@
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\bin\Debug\net8.0\WebApi.Cors.Example.Shared.deps.json
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\bin\Debug\net8.0\WebApi.Cors.Example.Shared.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\bin\Debug\net8.0\WebApi.Cors.Example.Shared.pdb
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.AssemblyInfoInputs.cache
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.AssemblyInfo.cs
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.sourcelink.json
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\refint\WebApi.Cors.Example.Shared.dll
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\WebApi.Cors.Example.Shared.pdb
+C:\Users\marqu\source\repos\DN12_Jennifer_Rios\M7_CRUDNetTools\T6\WebApi.Cors.Example\WebApi.Cors.Example.Shared\obj\Debug\net8.0\ref\WebApi.Cors.Example.Shared.dll
