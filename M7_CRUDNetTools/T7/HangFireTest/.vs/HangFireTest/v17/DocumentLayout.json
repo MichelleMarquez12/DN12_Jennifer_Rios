@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\jobs\\testprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\jobs\\testprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|c:\\users\\marqu\\source\\repos\\dn12_jennifer_rios\\m7_crudnettools\\t7\\prueba2\\hangfiretest\\hangfiretest\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9324215-FB72-4695-B411-3206485C413A}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProcess.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Jobs\\TestProcess.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Jobs\\TestProcess.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Jobs\\TestProcess.cs",
+              "RelativeToolTip": "HangFireTest\\Jobs\\TestProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:21:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HangFireTest\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HangFireTest\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T22:54:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HangFireTest\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:54:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Helper\\DBHelper.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Helper\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Helper\\DBHelper.cs",
+              "RelativeToolTip": "HangFireTest\\Helper\\DBHelper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:27:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\appsettings.json",
+              "RelativeDocumentMoniker": "HangFireTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\appsettings.json",
+              "RelativeToolTip": "HangFireTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T21:13:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Program.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Program.cs",
+              "ToolTip": "C:\\Users\\marqu\\source\\repos\\DN12_Jennifer_Rios\\M7_CRUDNetTools\\T7\\Prueba2\\HangFireTest\\HangFireTest\\Program.cs",
+              "RelativeToolTip": "HangFireTest\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:58:13.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
