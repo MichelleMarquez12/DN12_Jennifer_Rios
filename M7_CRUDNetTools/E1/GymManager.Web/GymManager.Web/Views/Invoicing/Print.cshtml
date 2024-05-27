@@ -1,0 +1,57 @@
+﻿@using GymManager.Web.Views.Shared.Components.AppMenu
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>@ViewBag.Title</title>
+        <!-- LINK DEL FAVICON-->
+        <!--https://img.freepik.com/free-photo/build-your-own-body-strength-fitness-exercise-get-fit_53876-21380.jpg?w=996&t=st=1706391284~exp=1706391884~hmac=aa5321ac1e90da7714627a9af55ab4f310ee5eb0217d89e45cbf7ebcfae6ae18-->
+        <link rel="icon" href="~/images/logoo.png">
+        <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/">
+
+        <link href="https://localhost:44396/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+        <style>
+            .bd-placeholder-img {
+                font-size: 1.125rem;
+                text-anchor: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                user-select: none;
+            }
+
+            @*el doble @@ ayuda a salvar,escapar el @ ya que es un caracter reservado para codigo del lado del servidor*@
+            @@media (min-width: 768px) {
+                .bd-placeholder-img-lg {
+                    font-size: 3.5rem;
+                }
+            }
+            main > .container {
+                padding: 60px 15px 0;
+            }
+
+            .logo {
+              width: 100px;
+              height: auto;
+              float: left;
+              margin-right: 10px;
+            }
+            .carousel-item img {
+                height: 600px; /* Set the desired height */
+                object-fit: cover; /* Maintain the aspect ratio and crop the image to cover the entire container */
+            }
+        </style>
+    </head>
+
+    <body class="d-flex flex-column h-100 mt-5">
+        <!-- Begin page content -->
+        <main class="flex-shrink-0">
+            <div class="container">
+              <partial name="/Views/Invoicing/_PrintView.cshtml" />
+            </div>
+        </main>
+    </body>
+</html>

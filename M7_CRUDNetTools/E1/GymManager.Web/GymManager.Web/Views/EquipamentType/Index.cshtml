@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model GymManager.Web.Models.EquipamentTypeListViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h1>Equipament</h1>
+
+    <div class="row">
+        <div class="col-6"><p> New members of week: @Model.NewEquipamentTypeCount</p></div>
+        <div class="col-6">
+            <a asp-action="Create" class="btn btn-outline-success float-end">Add Equipament</a>
+        </div>
+    </div>
+
+    <div>
+       @await Html.PartialAsync("~/Views/Shared/_EquipamentTypeList.cshtml", Model.EquipamentTypes)
+    </div>
+
+</div>
